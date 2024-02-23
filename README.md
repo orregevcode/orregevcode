@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm or regev</h1>
-<img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BsOGdlMnB5M3ExY3MyejFmZ2E0dTdmMnp4bmJhamVvazJsbDU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif"/>
 
 
 <h3 align="left">A passionate frontend developer from israel</h3>
