@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm or regev</h1>
-Anurag's github stats	
+
 
 
 <h3 align="left">A passionate frontend developer from israel</h3>
